@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #0f172a;
+    background-color: #f8fafc;
+  }
+  h1, h2, h3, .font-display {
+    font-family: 'Cabinet Grotesk', 'Plus Jakarta Sans', system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Custom utility for text-balance */
+.text-balance {
+  text-wrap: balance;
+}

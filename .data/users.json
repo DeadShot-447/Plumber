@@ -1,0 +1,12 @@
+[
+  {
+    "id": "usr-admin-master",
+    "name": "Super Admin",
+    "email": "superadmin@allserviceplumbing.com",
+    "passwordHash": "$2b$10$89oQx2i4WgrTe0K1ei3oIuQIbYUK2GhtTxxUlQM5k8LXPVXuouc6C",
+    "role": "Super Admin",
+    "status": "active",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "lastLoginAt": "2026-10-03T08:49:26.310Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "All Service Plumbing of Central Florida, Inc.",
+  "description": "Professional plumbing services for homes and businesses throughout Sebring and Central Florida. Open 24 hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,90 @@
+{
+  "business": {
+    "name": "All Service Plumbing of Central Florida, Inc.",
+    "shortName": "All Service Plumbing",
+    "subtitle": "of Central Florida, Inc.",
+    "category": "Plumber",
+    "phone": "+1 863-991-5702",
+    "phoneRaw": "+18639915702",
+    "phoneFormatted": "(863) 991-5702",
+    "address": "4305 Grand Concourse",
+    "city": "Sebring",
+    "state": "FL",
+    "zip": "33875",
+    "country": "United States",
+    "fullAddress": "4305 Grand Concourse, Sebring, FL 33875",
+    "hours": "Open 24 hours",
+    "hoursDetail": "24/7 Emergency & Scheduled Plumbing Service",
+    "googleReviewsUrl": "https://www.google.com/maps/search/?api=1&query=All+Service+Plumbing+of+Central+Florida+Inc+Sebring+FL"
+  },
+  "home": {
+    "heroHeadline": "Reliable Plumbing Services in Central Florida",
+    "heroSupportingText": "Professional plumbing service for homes and businesses throughout Sebring and Central Florida.",
+    "heroPrimaryCtaText": "Call (863) 991-5702",
+    "heroSecondaryCtaText": "Request Service",
+    "heroImageUrl": "/src/assets/images/hero_plumbing_service_1791015140754.jpg",
+    "emergencyHeadline": "Plumbing Emergency?",
+    "emergencyText": "Don't wait for a small plumbing problem to become a major issue. Contact All Service Plumbing for professional service.",
+    "whyChooseUsHeadline": "Why Customers Choose All Service Plumbing",
+    "whyChooseUsSubtext": "When plumbing troubles occur in Sebring or Central Florida, you need a local team that is accessible, responsive, and equipped for residential and commercial systems."
+  },
+  "about": {
+    "aboutHeroHeadline": "About All Service Plumbing of Central Florida, Inc.",
+    "aboutHeroSubtext": "Dedicated to delivering dependable, 24-hour residential and commercial plumbing services to homes and businesses in Sebring and Central Florida.",
+    "localServiceTitle": "Local Plumbing Service for Sebring & Central Florida",
+    "localServiceText": "Centrally based in Highlands County, allowing our technicians to promptly reach residential neighborhoods, municipal facilities, and commercial centers across Central Florida.",
+    "residentialCommercialText": "Equipped to handle everything from residential sink and water heater leaks to large commercial facilities and business restroom systems.",
+    "serviceApproachText": "24-hour telephone dispatch, accurate diagnostic procedures, and durable repairs that prevent recurring water issues."
+  },
+  "seo": {
+    "metaTitle": "Plumber in Sebring, FL | All Service Plumbing of Central Florida",
+    "metaDescription": "All Service Plumbing of Central Florida, Inc. provides professional plumbing services in Sebring, Florida. Contact us 24 hours a day for plumbing service.",
+    "ogTitle": "Plumber in Sebring, FL | All Service Plumbing of Central Florida",
+    "ogDescription": "All Service Plumbing of Central Florida, Inc. provides professional plumbing services in Sebring, Florida. Contact us 24 hours a day for plumbing service.",
+    "keywords": "Plumber Sebring FL, Emergency Plumbing Central Florida, Water Heater Repair Sebring, Drain Cleaning Sebring Florida, Commercial Plumber Sebring"
+  },
+  "navigation": [
+    {
+      "id": "nav-1",
+      "name": "Home",
+      "href": "/",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "nav-2",
+      "name": "About",
+      "href": "/about",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "nav-3",
+      "name": "Services",
+      "href": "/services",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "nav-4",
+      "name": "Service Areas",
+      "href": "/service-areas",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "nav-5",
+      "name": "Reviews",
+      "href": "/reviews",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "id": "nav-6",
+      "name": "Contact",
+      "href": "/contact",
+      "enabled": true,
+      "order": 6
+    }
+  ]
+}
